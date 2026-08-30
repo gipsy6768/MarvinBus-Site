@@ -64,3 +64,24 @@ SIGUIENTE PASO SUGERIDO
 Si más adelante quieres que las reservas y el formulario de contacto
 funcionen de verdad (con envío de correos o conexión a una base de datos),
 cuéntame y lo conectamos.
+
+╔══════════════════════════════════════╗
+║       MARVINBUS — GIT               ║
+╚══════════════════════════════════════╝
+
+🆕 PC NUEVA
+git clone https://github.com/gipsy6768/MarvinBus-Site.git
+cd MarvinBus-Site
+code .
+
+⚙️ CONFIGURAR GIT (solo 1 vez por PC)
+git config --global user.name "gipsy6768"
+git config --global user.email "jjpsplasencia0@gmail.com"
+
+⬇️ ANTES DE TRABAJAR
+git pull
+
+💾 GUARDAR CAMBIOS
+git add .
+git commit -m "Descripción de cambios"
+git push
