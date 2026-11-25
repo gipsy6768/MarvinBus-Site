@@ -605,3 +605,12 @@ footer.site-footer{ background:var(--ink); color:#c9cad1; padding-top:70px; }
   .stats-row{ gap:24px 14px; }
   .stat-num{ font-size:30px; }
 }
+
+
+
+
+
+lead{
+
+  background: linear-gradient(90deg, #E4141C 0%, #FF8A00 100%);
+}
